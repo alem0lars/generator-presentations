@@ -1,0 +1,32 @@
+{
+  "name": "generator-presentations",
+  "version": "0.1.0",
+  "description": "A Yeoman generator for creating HTML5 presentations using Impress.js Gulp, WebPack, BrowserSync, etc..",
+  "keywords": [
+    "impress.js",
+    "presentation",
+    "yeoman",
+    "yeoman-generator",
+    "generator-presentations"
+  ],
+  "homepage": "https://github.com/alem0lars/generator-presentations",
+  "bugs": "https://github.com/alem0lars/generator-presentations",
+  "author": {
+    "name": "Alessandro Molari",
+    "email": "molari.alessandro@gmail.com",
+    "url": "https://github.com/alem0lars"
+  },
+  "licenses": [
+    {
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "lodash": "^3.6.0",
+    "yeoman-generator": "~0.17.3"
+  }
+}
