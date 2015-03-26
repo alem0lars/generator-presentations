@@ -1,0 +1,16 @@
+{
+  "name": "<%= _.string.slugify(presTitle) %>",
+  "version": "<%= pkgVers %>",
+  "private": true,
+  "repository": "<%= repoUrl %>",
+  "author": {
+    "name": "<%= authorName %>",
+    "email": "<%= authorEmail %>",
+    "url": "<%= authorUrl %>"
+  },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
